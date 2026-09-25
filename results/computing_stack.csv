@@ -1,0 +1,7 @@
+layer,main_bottleneck,technology_response,process_or_manufacturing_link
+device,short_channel_and_leakage,advanced_transistor_and_materials,"implantation;deposition;etch;variation"
+circuit,power_and_logic_efficiency,CMOS_optimization,"device_matching;Vt_control;interconnect"
+memory,memory_bandwidth,HBM,"DRAM;TSV;wafer_thinning"
+package,data_movement_and_thermal,advanced_packaging,"bonding;thermal;yield"
+architecture,parallel_compute_demand,GPU_AI_accelerator,"compute_memory_co_design"
+heterogeneous_compute,workload_specific_acceleration,"CPU_GPU_QPU_or_neuromorphic","interface;control;reliability"
