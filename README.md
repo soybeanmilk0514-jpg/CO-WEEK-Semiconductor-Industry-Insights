@@ -211,7 +211,7 @@ This turned the CO-WEEK experience from a list of lectures into a technology map
 | [Quantum Hybrid Computing](./guide/04_quantum_hybrid.md) | classical–quantum hybrid model |
 | [Device-Level Reflection](./guide/05_device_level_reflection.md) | 소자·공정 관점의 비판적 고찰 |
 | [Industry Expansion](./guide/06_industry_research.md) | IBM·neuromorphic 추가 조사 |
-| [Career Takeaways](./guide/07_career_takeaways.md) | 공정/양산 관점에서 얻은 의미 |
+| [Engineering Takeaways](./guide/07_career_takeaways.md) | 공정/양산 관점에서 얻은 의미 |
 | [Evidence Scope](./guide/08_evidence_scope.md) | 원본 보고서와 추가 조사 구분 |
 | [References](./references/README.md) | 공식 프로그램·외부 조사 출처 |
 | [Report Scope](./report/README.md) | 원본 2페이지 보고서 설명 |
