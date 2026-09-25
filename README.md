@@ -257,3 +257,7 @@ This repository separates three evidence levels:
 3. **Additional research** — current external context added after the course
 
 The additional research is used to expand the portfolio interpretation, not to retroactively claim that it was part of the original submitted assignment.
+
+---
+
+[← Back to Subin Joo's GitHub Portfolio](https://github.com/soybeanmilk0514-jpg)
