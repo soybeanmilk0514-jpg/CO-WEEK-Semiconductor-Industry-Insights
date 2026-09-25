@@ -1,0 +1,7 @@
+learning_point,engineering_question,process_manufacturing_relevance
+GPU_parallelism,Can compute cores be fed with enough data?,memory_bandwidth_and_package_integration
+HBM,How can memory be placed closer to compute?,TSV_bonding_thinning_thermal_yield
+Quantum_hybrid,Can QPU and classical systems exchange work efficiently?,control_interface_interconnect_cryogenic_electronics
+Neuromorphic,Can memory and compute be co-located at low power?,new_material_device_variability_and_array_integration
+Advanced_CMOS,How far can classical scaling continue?,process_control_leakage_variation_reliability
+Cross_layer_design,Where is the real system bottleneck?,manufacturing_constraints_affect_product_architecture
