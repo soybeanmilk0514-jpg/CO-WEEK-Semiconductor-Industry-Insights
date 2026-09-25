@@ -1,4 +1,4 @@
-# 07. Career Takeaways — Process / Manufacturing View
+# 07. Engineering Takeaways — Process / Manufacturing View
 
 ## 1. Product Performance Depends on Manufacturing
 
