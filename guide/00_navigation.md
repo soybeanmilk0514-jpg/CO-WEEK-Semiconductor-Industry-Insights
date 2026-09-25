@@ -8,7 +8,7 @@
 | quantum-classical hybrid model은 무엇인가? | [04. Quantum Hybrid](./04_quantum_hybrid.md) |
 | 소자·공정 관점에서 어떤 의문을 가졌나? | [05. Device-Level Reflection](./05_device_level_reflection.md) |
 | 추가 조사에서 무엇을 확인했나? | [06. Industry Expansion](./06_industry_research.md) |
-| 취업 관점에서 무엇을 얻었나? | [07. Career Takeaways](./07_career_takeaways.md) |
+| 공학적으로 무엇을 얻었나? | [07. Engineering Takeaways](./07_career_takeaways.md) |
 | 원본 과제와 추가 조사의 경계는? | [08. Evidence Scope](./08_evidence_scope.md) |
 
 ## Structured Learning Records
